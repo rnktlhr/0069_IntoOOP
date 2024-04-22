@@ -21,5 +21,8 @@ class Matakuliah{
         int sks;
     
     public:
-        
+        void input(){
+            
+        }
+
 };
