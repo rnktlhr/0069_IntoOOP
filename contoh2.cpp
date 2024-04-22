@@ -24,3 +24,11 @@ class bangunDatar{
             cout << "Luasnya = " << hitunganLuas() << endl;
         }
 };
+
+int main(){
+    bangunDatar pp;
+    pp.input();
+    pp.display();
+
+    return 0;
+}
