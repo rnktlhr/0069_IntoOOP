@@ -35,5 +35,8 @@ class Matakuliah{
             cout << "Nama MK: " << namaMk << endl;
             cout << "SKS: " << sks << endl;
         }
-
 };
+
+int main(){
+    
+}
