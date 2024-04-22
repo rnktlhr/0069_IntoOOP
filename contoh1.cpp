@@ -13,3 +13,5 @@ class mahasiswa{
             cout << "Jurusan: " << jurusan << endl; 
         }
 };
+
+class Matakuliah{};
