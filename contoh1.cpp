@@ -14,4 +14,6 @@ class mahasiswa{
         }
 };
 
-class Matakuliah{};
+class Matakuliah{
+    private: 
+};
