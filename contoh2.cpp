@@ -7,10 +7,14 @@ class bangunDatar{
     public: 
         float Luas;
     
-    void input(){
+        void input(){
         cout << "Masukkan Panjangnya = ";
         cin >> panjang;
         cout << "Masukkan Lebarnya = ";
         cin >> lebar;
-    }
+        }
+
+        float hitunganLuas(){
+            return panjang * lebar;
+        }
 };
